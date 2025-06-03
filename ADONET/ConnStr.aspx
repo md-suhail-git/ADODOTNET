@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="ADONET.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ConnStr.aspx.cs" Inherits="ADONET.WebForm1" %>
 
 <!DOCTYPE html>
 
